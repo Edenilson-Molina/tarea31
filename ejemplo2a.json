@@ -1,0 +1,25 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"dolar",
+		"@codigoarea":"+503",
+		"@idioma":"español",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Cuscatlán",
+				"cabecera":"Cojutepeque",
+				"habitantes":"258,437",
+				"altura":"545 MSNM",
+				"idiomaautoctono":"náhuat"
+			}
+		]
+	}
+}

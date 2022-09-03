@@ -1,0 +1,24 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"23/08/2022",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"24/08/2022",
+				"nombre":"Elmer Edenilson",
+				"apellido":"Rosales Molina",
+				"direccion":"Cuscatlán, San Bartolomé perulapía",
+				"telefono":"7651 3522",
+				"email":"Edenilsonmolina@hotmail.com",
+				"url_personal":{
+					"@enlace":"https://rm20001tpi115.neocities.org/",
+					"#text":"Sitio web favorito"
+				}
+			}
+		]}
+}

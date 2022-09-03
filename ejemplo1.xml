@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone ="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejemplo1.css" ?>
+
+<fichero>
+  <ficha id = "1" fechaingreso = "23/08/2022">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+</fichero>

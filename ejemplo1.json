@@ -1,0 +1,9 @@
+{
+	"fichero":{"ficha":{
+			"@id":"1",
+			"@fechaingreso":"23/08/2022",
+			"nombre":"Antonio",
+			"apellido":"Barbero",
+			"direccion":"Calle de Los Andes, 45"
+		}}
+}

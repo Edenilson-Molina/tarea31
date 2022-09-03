@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone = "yes" ?>
+
+<?xml-stylesheet type="text/css" href="ejemplo2b.css" ?>
+
+<!-- ejemplo2.xml RM20001 -->
+<pais nombre="El Salvador" moneda="dolar" codigoarea="+503" idioma = "español">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  
+  <departamento id="2" nombre="Cuscatlán">
+    <cabecera>Cojutepeque</cabecera>
+    <habitantes>258,437</habitantes>
+    <altura>545 MSNM</altura>
+    <idiomaautoctono>náhuat</idiomaautoctono>
+    <comidatipica>Las pupusas</comidatipica>
+  </departamento>
+  
+  <departamento id="3" nombre="San Vicente">
+    <cabecera>San Vicente</cabecera>
+    <habitantes>53,213 </habitantes>
+    <altura>545 MSNM</altura>
+    <idiomaautoctono>náhuat</idiomaautoctono>
+  </departamento>
+  
+</pais>
